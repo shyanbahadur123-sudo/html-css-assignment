@@ -72,5 +72,5 @@ I used ChatGPT to help me understand some HTML and CSS code.
 
 ## GitHub
 
-GitHub link: [Add your GitHub link here]
+GitHub link: [https://github.com/shyanbahadur123-sudo/html-css-assignment.git]
 # html-css-assignment
