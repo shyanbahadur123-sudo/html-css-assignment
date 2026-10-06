@@ -10,7 +10,7 @@ background-color: #9895a3;
 color: #121111;
 }
 
-/* Header */
+
 
 header {
 background-color: #0d0a0a;
@@ -23,7 +23,7 @@ color: rgb(187, 85, 85);
 margin-bottom: 15px;
 }
 
-/* Navigation */
+
 
 nav {
 display: flex;
@@ -38,13 +38,12 @@ margin: 10px;
 padding: 5px;
 }
 
-/* Navigation hover */
+
 
 nav a:hover {
 color: white;
 }
 
-/* Home */
 
 #home {
 text-align: center;
@@ -57,7 +56,7 @@ font-size: 32px;
 margin-bottom: 10px;
 }
 
-/* Courses */
+
 
 #courses {
 padding: 40px 20px;
@@ -82,7 +81,7 @@ border: 1px solid #555;
 border-radius: 5px;
 }
 
-/* Course hover */
+
 
 #courses > div > div:hover {
 background-color: rgb(131, 125, 125);
@@ -107,13 +106,12 @@ margin-top: 10px;
 border-radius: 4px;
 }
 
-/* Button hover */
+
 
 #courses a:hover {
 background-color: #211f5c;
 }
 
-/* About */
 
 #about {
 text-align: center;
@@ -125,7 +123,6 @@ padding: 40px 20px;
 margin-top: 10px;
 }
 
-/* Footer */
 
 footer {
 background-color: #333;
@@ -134,7 +131,7 @@ text-align: center;
 padding: 20px;
 }
 
-/* Tablet */
+
 
 @media (max-width: 800px) {
 
@@ -144,7 +141,7 @@ padding: 20px;
 
 }
 
-/* Mobile */
+
 
 @media (max-width: 550px) {
 
